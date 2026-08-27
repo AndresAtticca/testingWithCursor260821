@@ -1,0 +1,12 @@
+body {
+  font-family: system-ui, sans-serif;
+  margin: 2rem;
+}
+
+button {
+  padding: 0.5rem 1rem;
+}
+
+button:disabled {
+  opacity: 0.6;
+}
